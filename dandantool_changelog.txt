@@ -16,4 +16,4 @@ Version 1.60:
 
 Version 1.61:
 [2025.7.3 更新]
-新增：x_follow.txt按文件数量切割 在8-6
+新增：x_follow.txt按行数切割 在8-6
