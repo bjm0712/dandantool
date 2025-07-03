@@ -21,3 +21,7 @@ Version 1.61:
 Version 1.62:
 [2025.7.3 更新]
 新增：合并TXT/CSV/XLSX 在8-7
+
+Version 1.63:
+[2025.7.3 更新]
+新增：临时|Pharos一条龙数据生成 在10
